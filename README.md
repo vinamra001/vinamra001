@@ -5,7 +5,7 @@ I am a final-year Computer Engineering student at **Indira College of Engineerin
 
 - 🔭 **Currently Building:** Sanjeevani, a hybrid Ayurvedic Health Engine using Django & Gemini 2.0.
 - 🎓 **Academic Focus:** Preparing for **GATE 2027** while deep-diving into Operating Systems and Computer Networks.
-- ⚡ **Key Strength:** Proven ability to ship production-ready MVPs under pressure (HSBC Hackathon Winner).
+- ⚡ **Key Strength:** Proven ability to ship production-ready MVPs under pressure (HSBC Hackathon Finalist).
 
 ---
 
