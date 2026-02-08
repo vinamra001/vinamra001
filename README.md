@@ -28,7 +28,7 @@ I am a final-year Computer Engineering student at **Indira College of Engineerin
 - Integrated **Gemini 2.0 API with RAG** to ground AI responses in local datasets and eliminate hallucinations.
 - Ported core diagnostics for **on-device execution**, ensuring 100% availability in offline environments.
 
-#### 💳 [AI-Powered Fraud Detection](https://github.com/vinamra001/fraud-detection) - *HSBC Hackathon Lead*
+#### 💳 [AI-Powered Fraud Detection](https://github.com/vinamra001/AI-Powered-Fraud-Detection-System) - *HSBC Hackathon Lead*
 *Quantitative-focused anomaly detection for financial transactions.*
 - Achieved **99.79% Precision** and **98.73% Recall** using optimized Random Forest models.
 - Utilized GridSearchCV and 3-fold cross-validation to handle extreme data imbalance.
