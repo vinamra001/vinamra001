@@ -22,7 +22,7 @@ I am a final-year Computer Engineering student at **Indira College of Engineerin
 
 ### 🌟 Featured Work
 
-#### 🏥 [Sanjeevani (Ayurvedic Health Engine)](https://github.com/vinamra001/sanjeevani-showcase) - *Lead Backend & Logic*
+#### 🏥 [Sanjeevani (Ayurvedic Health Engine)](https://github.com/vinamra001/Sanjeevani-showcase) - *Lead Backend & Logic*
 *A hybrid intelligence system for precision diagnostics.*
 - Engineered a **Triple-Weighting Scoring System** combining Random Forest ML (60%) with rule-based Ayurvedic logic (30%).
 - Integrated **Gemini 2.0 API with RAG** to ground AI responses in local datasets and eliminate hallucinations.
